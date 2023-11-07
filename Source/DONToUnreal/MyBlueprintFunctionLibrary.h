@@ -28,4 +28,7 @@ class DONTOUNREAL_API UMyBlueprintFunctionLibrary : public UBlueprintFunctionLib
 	
 	UFUNCTION(BlueprintCallable, Category = "Import Assets")
 		static UObject* ImportAsset(FString SourcePath, FString DestinationPath, bool& bOutSuccess, FString& OutInfoMessage);
+
+	UFUNCTION(BlueprintCallable, Category = "Import Assets")
+		static FString GetAssetReference(FString ID);
 };

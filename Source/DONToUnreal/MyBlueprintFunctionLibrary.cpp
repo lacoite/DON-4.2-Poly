@@ -10,6 +10,11 @@ FString UMyBlueprintFunctionLibrary::text(FString Name) {
 	return FString(Name);
 }
 
+FString UMyBlueprintFunctionLibrary::GetAssetReference(FString ID) {
+	FString AssetPath = FString::Printf( TEXT("/Script/Engine.StaticMesh'/Game/Assets/models/%s/%s.%s'"), *ID, *ID, *ID);
+	return FString(AssetPath);
+}
+
 UAssetImportTask* UMyBlueprintFunctionLibrary::CreateImportTask(FString SourcePath, FString DestinationPath, bool& bOutSuccess, FString& OutInfoMessage)
 {
 	UAssetImportTask* RetTask = NewObject<UAssetImportTask>();
