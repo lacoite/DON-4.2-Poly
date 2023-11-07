@@ -1,0 +1,40 @@
+#
+# Wavefront material file: c:\users\whebert\documents\unity projects\virtualcamera\trunk\assets\resources\statetest\models\sphere.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 08/28/2012 16:38:04
+#
+# Bounding box of geometry = (-0.503221,-0.516844,-0.485693) to (0.503221,0.516844,0.485693).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl Material__sub_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.588 0.588 0.588
+	Ks 0 0 0
+	Ka 0.345744 0.345744 0.345744
+
+newmtl n_07___Default__sub_
+	Ns 3
+	d 1
+	illum 2
+	Kd 0 0 0
+	Ks 0 0 0
+	Ka 0 0 0
+
+newmtl n_13___Default
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.25098 0.25098 0.25098
+	Ks 0 0 0
+	Ka 0.062991 0.062991 0.062991
+

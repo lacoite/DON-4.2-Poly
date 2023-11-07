@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DONMissionConfig>
+	<MissionConfig format="MPC3" source="MPC3LoadTest.xml" />
+</DONMissionConfig>

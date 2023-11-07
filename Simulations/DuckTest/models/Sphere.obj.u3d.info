@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ObjectInfo version="1.0" objectFile="C:\Users\whebert\Documents\Skipper\MPC_Client\trunk\Simulations\StateTest\models\Sphere.obj.u3d">
+    <Materials>
+        <Material id="C:\Users\whebert\Documents\Skipper\MPC_Client\trunk\Simulations\StateTest\models\sphere.mtl_n_13___Default" name="n_13___Default" shaderName="Diffuse">
+            <Attributes>
+                <Transparency value="1" />
+                <Color type="_Color" value="0.25098 0.25098 0.25098 1" />
+                <Color type="_SpecColor" value="0 0 0 1" />
+                <Color type="_Ambient" value="0.062991 0.062991 0.062991 1" />
+                <Scalar type="_Shininess" value="0.3" />
+            </Attributes>
+        </Material>
+        <Material id="C:\Users\whebert\Documents\Skipper\MPC_Client\trunk\Simulations\StateTest\models\sphere.mtl_n_07___Default__sub_" name="n_07___Default__sub_" shaderName="Diffuse">
+            <Attributes>
+                <Transparency value="1" />
+                <Color type="_Color" value="0 0 0 1" />
+                <Color type="_SpecColor" value="0 0 0 1" />
+                <Color type="_Ambient" value="0 0 0 1" />
+                <Scalar type="_Shininess" value="0.3" />
+            </Attributes>
+        </Material>
+        <Material id="C:\Users\whebert\Documents\Skipper\MPC_Client\trunk\Simulations\StateTest\models\sphere.mtl_Material__sub_" name="Material__sub_" shaderName="Diffuse">
+            <Attributes>
+                <Transparency value="1" />
+                <Color type="_Color" value="0.588 0.588 0.588 1" />
+                <Color type="_SpecColor" value="0 0 0 1" />
+                <Color type="_Ambient" value="0.345744 0.345744 0.345744 1" />
+                <Scalar type="_Shininess" value="0.3" />
+            </Attributes>
+        </Material>
+    </Materials>
+    <Meshes totalTriangles="7200" totalVertices="5621">
+        <Mesh name="IndexedFaceSet__2" triangles="144" vertices="160">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="160">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__3" triangles="144" vertices="160">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="160">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__4" triangles="144" vertices="160">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="160">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__5" triangles="144" vertices="160">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="160">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__6" triangles="144" vertices="160">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="160">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__7" triangles="144" vertices="160">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="160">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__8" triangles="144" vertices="160">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="160">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__9" triangles="144" vertices="160">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="160">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__10" triangles="144" vertices="160">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="160">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__11" triangles="144" vertices="160">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="160">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__12" triangles="144" vertices="156">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="156">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__13" triangles="144" vertices="156">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="156">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__14" triangles="144" vertices="156">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="156">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__15" triangles="144" vertices="156">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="156">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__16" triangles="144" vertices="156">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="156">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__17" triangles="144" vertices="156">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="156">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__18" triangles="144" vertices="156">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="156">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__19" triangles="144" vertices="156">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="156">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__20" triangles="144" vertices="156">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="156">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__21" triangles="144" vertices="156">
+            <SubMeshes>
+                <SubMesh triangles="144" vertices="156">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet" triangles="1440" vertices="892">
+            <SubMeshes>
+                <SubMesh triangles="1440" vertices="892">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="1" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__1" triangles="2880" vertices="1569">
+            <SubMeshes>
+                <SubMesh triangles="2880" vertices="1569">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="2" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+    </Meshes>
+</ObjectInfo>

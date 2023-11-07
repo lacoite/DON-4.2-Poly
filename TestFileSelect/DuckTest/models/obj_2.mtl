@@ -1,0 +1,25 @@
+#
+# Wavefront material file: c:\users\whebert\documents\unity projects\virtualcamera\trunk\assets\resources\statetest\models\obj_2.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 08/28/2012 16:39:56
+#
+# Bounding box of geometry = (-9.52431,-0.0405941,-0.5) to (9.47569,9.45941,0.5).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl n_01___Defaultb
+	Ns 3
+	d 1
+	illum 2
+	Kd 1 1 0
+	Ks 0 0 0
+	Ka 1 1 0
+	map_Kd checker.jpg
+

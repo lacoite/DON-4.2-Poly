@@ -1,0 +1,16 @@
+#
+# Wavefront material file: c:\users\whebert\documents\dpv_simulations\load_test\path.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 08/27/2012 13:03:41
+#
+# Bounding box of geometry = (-3.40282e+038,-3.40282e+038,-3.40282e+038) to (3.40282e+038,3.40282e+038,3.40282e+038).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+

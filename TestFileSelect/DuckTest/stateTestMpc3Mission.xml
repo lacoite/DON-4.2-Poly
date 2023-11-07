@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mpcMission version="3.0" epoch="2009-11-13T12:00:00.000000Z" author="KSC">
+	<note>Testing simulation state with missing object/incorrect model.</note>
+	<scene name="Duck Test">
+		<environment type="Space" >
+			<camera parent="Sphere_Follow" pos="0 -2 0" up="0 0 1" forward="0 1 0" />
+			<camera parent="Sphere" pos="0 -2 0" up="0 0 1" forward="0 1 0" />
+			<camera name="Camera Track Sphere" pos="12 0 5" up="0 0 1" track="Sphere" />
+			<camera name="Camera Track Scale"  parent="Sphere_Follow" pos="0 -2 0" up="0 0 1" forward="0 1 0" track="Scale" />
+		</environment>
+		<objects>
+			<!-- default base file path: scene base file path -->
+			<object id="World" name="World" isStatic="0">
+				<geometry>
+					<model unitModel="meter" scale="0.1" filePath="models/World.obj"/>
+				</geometry>
+			</object>
+			<object id="Sphere_Follow" name="Sphere Follow" isStatic="0">
+				<geometry>
+					<model unitModel="meter" scale="1" filePath="models/Sphere_Follow.obj"/>
+				</geometry>
+			</object>
+			<object id="Sphere" name="Sphere" isStatic="0">
+				<geometry>
+					<model unitModel="meter" scale="1" filePath="models/Sphere.obj"/>
+				</geometry>
+			</object>
+			<object id="Rotation" name="Sphere Rotation" isStatic="0">
+				<geometry>
+					<model unitModel="meter" scale="1" filePath="models/Rotation.obj"/>
+				</geometry>
+			</object>
+			<object id="Position" name="Sphere Position" isStatic="0">
+				<geometry>
+					<model unitModel="meter" scale="1" filePath="models/Position.obj"/>
+				</geometry>
+			</object>
+			<object id="Scale" name="Scale" isStatic="0">
+				<geometry>
+					<model unitModel="meter" scale="1" quat="-.7071068 0 0 -.7071068" filePath="models/Scale.obj"/>
+				</geometry>
+			</object>
+			<object id="Visibility" name="Visibility" isStatic="0">
+				<geometry>
+					<model unitModel="meter" scale="1" quat="-.7071068 0 0 -.7071068" filePath="models/Visibility.obj"/>
+				</geometry>
+			</object>
+		</objects>
+	</scene>
+	<telemetries>
+		<telemetry name="Rolling Duck" type="file" format="MPC3" source="stateTestMpc3.xml">
+		<note>A quick simulation to simulate DONs capabilities</note>	
+		</telemetry>
+	</telemetries>
+</mpcMission>

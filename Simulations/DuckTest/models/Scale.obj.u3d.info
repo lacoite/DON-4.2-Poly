@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ObjectInfo version="1.0" objectFile="C:\Users\whebert\Documents\Skipper\MPC_Client\trunk\Simulations\StateTest\models\Scale.obj.u3d">
+    <Materials>
+        <Material id="C:\Users\whebert\Documents\Skipper\MPC_Client\trunk\Simulations\StateTest\models\scale.mtl_n_01___Default" name="n_01___Default" shaderName="Diffuse">
+            <Attributes>
+                <Transparency value="1" />
+                <Color type="_Color" value="0 0.917647 1 1" />
+                <Color type="_SpecColor" value="0 0 0 1" />
+                <Color type="_Ambient" value="0 0.917647 1 1" />
+                <Scalar type="_Shininess" value="0.3" />
+            </Attributes>
+        </Material>
+    </Materials>
+    <Meshes totalTriangles="872" totalVertices="950">
+        <Mesh name="IndexedFaceSet" triangles="32" vertices="48">
+            <SubMeshes>
+                <SubMesh triangles="32" vertices="48">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+        <Mesh name="IndexedFaceSet__1" triangles="840" vertices="902">
+            <SubMeshes>
+                <SubMesh triangles="840" vertices="902">
+                    <SubMeshMaterials>
+                        <SubMeshMaterial index="0" />
+                    </SubMeshMaterials>
+                </SubMesh>
+            </SubMeshes>
+        </Mesh>
+    </Meshes>
+</ObjectInfo>

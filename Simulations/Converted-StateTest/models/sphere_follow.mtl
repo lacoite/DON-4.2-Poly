@@ -1,0 +1,24 @@
+#
+# Wavefront material file: c:\users\whebert\documents\unity projects\virtualcamera\trunk\assets\resources\statetest\models\sphere_follow.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 08/28/2012 16:37:39
+#
+# Bounding box of geometry = (-0.05,-0.05,0) to (0.05,0.05,0.1).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl n_07___Default
+	Ns 3
+	d 0
+	illum 2
+	Kd 0.588235 0.588235 0.588235
+	Ks 0 0 0
+	Ka 0.34602 0.34602 0.34602
+
