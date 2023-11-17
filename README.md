@@ -28,7 +28,7 @@ If the popup displays you are missing a plugin, simply search the Unreal Engine 
 - Blueprint FileSDK: https://www.unrealengine.com/marketplace/en-US/product/blueprint-file-sdk
 - Read & write text file: https://www.unrealengine.com/marketplace/en-US/product/read-write-text-file
 
-The LE Xml Parser plugin is located in the Plugins folder of the project directory. This is a paid plugin and specifically requires the version 5.1 of Unreal Engine at this time. Should a popup display saying that this plugin is built in a different version of Unreal Engine and asks to rebuild, click yes. If that does not work, one of your team members should purchase the plugin and they can distribute this throughout the team.
+The only plugin that should give you this issue is Blueprint FileSDK. This is a free plugin available on the market.
 
 ### Unreal Engine Comments:
 - If you are fully unfamiliar with Unreal Engine like we were, here's a helpful beginner tutorial:
