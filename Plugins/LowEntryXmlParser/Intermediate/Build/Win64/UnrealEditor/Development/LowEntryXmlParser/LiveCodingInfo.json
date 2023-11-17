@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LowEntryXmlParser.cpp.obj": [
+			"FLowEntryXmlParserNodeAttribute.gen.cpp.obj",
+			"LowEntryXmlParser.init.gen.cpp.obj",
+			"LowEntryXmlParserLibrary.gen.cpp.obj",
+			"LowEntryXmlParserNode.gen.cpp.obj",
+			"LowEntryXmlParserLibrary.cpp.obj",
+			"LowEntryXmlParserNode.cpp.obj",
+			"LowEntryXmlParserModule.cpp.obj"
+		]
+	}
+}

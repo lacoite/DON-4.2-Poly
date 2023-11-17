@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LowEntryXmlParser.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Latasha\Documents\Unreal Projects\DON-4.2-Poly\Intermediate\Build\Win64\DONToUnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\Latasha\Documents\Unreal Projects\DON-4.2-Poly\Plugins\LowEntryXmlParser\Intermediate\Build\Win64\UnrealEditor\Development\LowEntryXmlParser\Module.LowEntryXmlParser.cpp.obj"
+"C:\Users\Latasha\Documents\Unreal Projects\DON-4.2-Poly\Plugins\LowEntryXmlParser\Intermediate\Build\Win64\UnrealEditor\Development\LowEntryXmlParser\Default.rc2.res"
+/OUT:"C:\Users\Latasha\Documents\Unreal Projects\DON-4.2-Poly\Plugins\LowEntryXmlParser\Intermediate\Build\Win64\UnrealEditor\Development\LowEntryXmlParser\UnrealEditor-LowEntryXmlParser.lib"
