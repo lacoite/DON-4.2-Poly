@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mpcMission version="3.0" epoch="2009-11-13T12:00:00.000000Z" author="KSC">
-	<note>Testing simulation state with missing object/incorrect model.</note>
+	<note>Testing simulation state with correct models loaded.</note>
 	<scene name="Duck Test">
 		<environment type="Space" >
 			<camera parent="Sphere_Follow" pos="0 -2 0" up="0 0 1" forward="0 1 0" />
